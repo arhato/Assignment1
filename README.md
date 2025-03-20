@@ -72,3 +72,9 @@
 </br>
 
   <img width="1126" alt="client" src="https://github.com/user-attachments/assets/cc2d0aeb-0b26-4c2c-80ad-f0c8b8679b50" />
+
+
+</br>
+For offline submission:  
+
+https://github.com/arhato/Assignment1 
