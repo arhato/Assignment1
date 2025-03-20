@@ -37,7 +37,7 @@
 
   Navigate to /client directory, then run:
 
-     sh fileclien.sh
+     sh fileclient.sh
 
 # Dockerfiles:
 
